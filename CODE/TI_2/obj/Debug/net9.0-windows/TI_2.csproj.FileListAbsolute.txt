@@ -1,0 +1,16 @@
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\TI_LAB_2\TI_2\TI_2\bin\Debug\net9.0-windows\TI_2.exe
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\TI_LAB_2\TI_2\TI_2\bin\Debug\net9.0-windows\TI_2.deps.json
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\TI_LAB_2\TI_2\TI_2\bin\Debug\net9.0-windows\TI_2.runtimeconfig.json
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\TI_LAB_2\TI_2\TI_2\bin\Debug\net9.0-windows\TI_2.dll
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\TI_LAB_2\TI_2\TI_2\bin\Debug\net9.0-windows\TI_2.pdb
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\TI_LAB_2\TI_2\TI_2\obj\Debug\net9.0-windows\TI_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\TI_LAB_2\TI_2\TI_2\obj\Debug\net9.0-windows\TI_2.AssemblyInfoInputs.cache
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\TI_LAB_2\TI_2\TI_2\obj\Debug\net9.0-windows\TI_2.AssemblyInfo.cs
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\TI_LAB_2\TI_2\TI_2\obj\Debug\net9.0-windows\TI_2.csproj.CoreCompileInputs.cache
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\TI_LAB_2\TI_2\TI_2\obj\Debug\net9.0-windows\TI_2.dll
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\TI_LAB_2\TI_2\TI_2\obj\Debug\net9.0-windows\refint\TI_2.dll
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\TI_LAB_2\TI_2\TI_2\obj\Debug\net9.0-windows\TI_2.pdb
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\TI_LAB_2\TI_2\TI_2\obj\Debug\net9.0-windows\TI_2.genruntimeconfig.cache
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\TI_LAB_2\TI_2\TI_2\obj\Debug\net9.0-windows\ref\TI_2.dll
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\TI_LAB_2\TI_2\TI_2\obj\Debug\net9.0-windows\TI_2.Form1.resources
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\TI_LAB_2\TI_2\TI_2\obj\Debug\net9.0-windows\TI_2.csproj.GenerateResource.cache
